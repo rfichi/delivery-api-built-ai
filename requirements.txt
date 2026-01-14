@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+PyJWT
+prometheus-fastapi-instrumentator
+pytest
+pytest-asyncio
+SQLAlchemy>=2.0
+aiosqlite
+python-multipart
+httpx
